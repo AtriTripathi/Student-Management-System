@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cbbf7e3-3c10-466e-a8a7-b69e5b31bac5" name="Default Changelist" comment="" />
+    <list default="true" id="7cbbf7e3-3c10-466e-a8a7-b69e5b31bac5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/database/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/DBConnection.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,10 +135,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="6190298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/admin/Admin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -145,7 +175,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/database/DBConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,7 +199,6 @@
         <option value="$PROJECT_DIR$/src/admin/AdminTeacherController.java" />
         <option value="$PROJECT_DIR$/src/admin/AdminTeacherTable.java" />
         <option value="$PROJECT_DIR$/src/admin/CourseTable.java" />
-        <option value="$PROJECT_DIR$/src/database/DBConnection.java" />
         <option value="$PROJECT_DIR$/src/menuBar/MenuBarControl.java" />
         <option value="$PROJECT_DIR$/src/profileView/Info.java" />
         <option value="$PROJECT_DIR$/src/profileView/ProfileView.java" />
@@ -174,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/admin/Course.fxml" />
         <option value="$PROJECT_DIR$/src/menuBar/About.fxml" />
         <option value="$PROJECT_DIR$/src/recordSystemMain/MainLogin.fxml" />
+        <option value="$PROJECT_DIR$/src/database/DBConnection.java" />
       </list>
     </option>
   </component>
@@ -181,6 +223,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -203,6 +246,12 @@
               <item name="Student Management System" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student Management System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student Management System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Student Management System" type="b2602c69:ProjectViewProjectNode" />
@@ -285,9 +334,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -350,22 +400,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/database/DBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011152064.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011153033.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142153.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/011152064.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011153033.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011142153.jpg" />
     <entry file="file://$PROJECT_DIR$/src/admin/AdminTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -394,27 +431,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142032.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142047.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142052.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142053.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/011142077.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/011142032.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011142047.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011142052.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011142053.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/image/011142077.jpg" />
     <entry file="file://$PROJECT_DIR$/src/image/default-user-icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sqlSheet/admin.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqlSheet/admin.sql" />
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -446,16 +471,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sqlSheet/course.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqlSheet/course.sql" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/src/student/RegistrationController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -563,6 +580,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
